@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codepath.apps.twitterclient.activities.TweetActivity">
+    <item android:id="@+id/tweetBtn" android:title="@string/tweet_title"
+        android:orderInCategory="5"
+        android:icon="@drawable/twitter_icon"
+        android:onClick="postTweet"
+        app:showAsAction="always" />
+
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="simple_dark_blue">#446dc1</color>
+    <color name="primary_cream">#fff7d7</color>
+    <color name="simple_light_blue">#da7490e6</color>
+    <color name="twitter_blue">#55ACEE</color>
+    <color name="creamy_white">#F9FCFE</color>
+    <color name="tweet_body">#292F33</color>
+    <color name="time_stamp_color">#8E9EAA</color>
+    <color name="tweet_color">#339CC3</color>
+</resources>

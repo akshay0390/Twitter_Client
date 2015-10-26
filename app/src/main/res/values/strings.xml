@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tweet-O-Mania</string>
+    <string name="login_label">Connect with Twitter</string>
+    <string name="title_activity_home_timeline">Home</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="tweet_title">Tweet</string>
+    <string name="title_activity_tweet">Tweet Activity</string>
+
+    <string name="tweet_text">Anything New?</string>
+</resources>
